@@ -1,0 +1,63 @@
+{
+  "name": "MiniShop",
+  "version": "1.0.0",
+  "description": "Vietnamesische Produkte direkt aus Vietnam – für die ganze Familie.",
+  "author": "MovusX Solutions",
+  "products": [
+    {
+      "id": 1,
+      "internalProductId": "00498",
+      "name": "Reisnudeln 1,2mm 500g",
+      "description": "Feine Reisnudeln mit 1,2mm Durchmesser, ideal für Phở, Bún und andere vietnamesische Nudelgerichte.",
+      "unit": "Packung",
+      "price": 2,
+      "remarks": "20 Packungen = 1 Karton",
+      "tags": ["Nudeln", "Reis", "Asiatisch", "noodle", "rice", "mi goi"],
+      "images": ["00498.webp", "various-noodles.webp"]
+    },
+    {
+      "id": 2,
+      "internalProductId": "00460",
+      "name": "Langkorn Reis ST 25 Lua Tom 18kg",
+      "description": "Hochwertiger Langkorn-Jasminreis aus Vietnam, aromatisch und fluffig. Ideal für alle asiatischen Gerichte.",
+      "unit": "Sack",
+      "price": 40,
+      "remarks": "",
+      "tags": ["Reis", "Langkorn", "Asiatisch", "rice", "gao"],
+      "images": ["00460.webp"]
+    },
+    {
+      "id": 3,
+      "internalProductId": "00834",
+      "name": "Chili Sauce Sriracha extra scharf",
+      "description": "Original Sriracha-Chilisauce, extra scharf. 455ml Flasche. Perfekt als Dip oder zum Würzen.",
+      "unit": "Flasche",
+      "price": 3.5,
+      "remarks": "12 Flaschen = 1 Karton",
+      "tags": ["Sauce", "Chili", "Asiatisch", "sriracha", "scharf"],
+      "images": ["00834.webp"]
+    },
+    {
+      "id": 4,
+      "internalProductId": "00445",
+      "name": "Instant Kaffee G7 3in1",
+      "description": "Vietnamesischer Instant-Kaffee G7 3in1 – eine Mischung aus Kaffee, Zucker und Kaffeesahne. 100 Sticks á 16g pro Packung.",
+      "unit": "Packung",
+      "price": 5,
+      "remarks": "24 Packungen = 1 Karton",
+      "tags": ["Kaffee", "Instant", "Getränk", "coffee", "instant", "drink"],
+      "images": ["00445.webp", "g7.jpg"]
+    },
+    {
+      "id": 5,
+      "internalProductId": "00482",
+      "name": "Hao Hao Instantnudeln 30×75g",
+      "description": "Beliebte vietnamesische Instantnudeln der Marke Hao Hao. Karton mit 30 Portionen à 75g, würzige Suppe inklusive.",
+      "unit": "Karton",
+      "price": 15,
+      "remarks": "",
+      "tags": ["Nudeln", "Instant", "Asiatisch", "noodle", "instant", "mi goi"],
+      "images": ["00482.webp", "beef-instant-noodle.png"]
+    }
+  ]
+}
