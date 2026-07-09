@@ -5415,6 +5415,17 @@
       "remarks": "",
       "tags": ["Kaffee", "coffee"],
       "images": []
+    },
+    {
+      "id": 493,
+      "internalProductId": "10941",
+      "name": "Kaffee 340g - Ca Phe So 1 - Test",
+      "description": "Kaffee 340g - Ca Phe So 1 – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 5.13,
+      "remarks": "",
+      "tags": ["Kaffee", "coffee"],
+      "images": []
     }
 
   ]
