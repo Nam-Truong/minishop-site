@@ -1,0 +1,10 @@
+{
+  "content": "docs",
+  "media": "docs/images",
+  "public": "docs",
+  "configs": [
+    "docs"
+  ],
+  "custom-commit": false,
+  "arrangement": []
+}
