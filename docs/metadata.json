@@ -5,6 +5,7 @@
   "description2": "Liebknechtstraße 71",
   "description3": "39110 Magdeburg",
   "author": "MovusX Solutions",
+  "productPaginationSize": 30,
   "products": [
     {
       "id": 1,
@@ -5416,6 +5417,182 @@
       "price": 5.13,
       "remarks": "",
       "tags": ["Kaffee", "coffee"],
+      "images": []
+    },
+    {
+      "id": 493,
+      "internalProductId": "00741",
+      "name": "Bambusstäbchen 23cm (30x100) m. plastik Hülle",
+      "description": "Bambusstäbchen 23cm (30x100) m. plastik Hülle – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["VERPACKUNGEN"],
+      "images": []
+    },
+    {
+      "id": 494,
+      "internalProductId": "00829",
+      "name": "Vegane Hühnerstücke, KC-23, Taiwan 300gr",
+      "description": "Vegane Hühnerstücke, KC-23, Taiwan 300gr – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 495,
+      "internalProductId": "00942",
+      "name": "Bambussprossen - Mang la tuoi 500g",
+      "description": "Bambussprossen - Mang la tuoi 500g – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 496,
+      "internalProductId": "00943",
+      "name": "Vannamei Garnelen 8/12  1 kg - Tom The",
+      "description": "Vannamei Garnelen 8/12  1 kg - Tom The – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TIEFKÜHLWAREN"],
+      "images": []
+    },
+    {
+      "id": 497,
+      "internalProductId": "00944",
+      "name": "Black Tiger Garnelen 6/8  1 kg - Tom Su",
+      "description": "Black Tiger Garnelen 6/8  1 kg - Tom Su – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TIEFKÜHLWAREN"],
+      "images": []
+    },
+    {
+      "id": 498,
+      "internalProductId": "00945",
+      "name": "Ca Com Fischsauce 725ml",
+      "description": "Ca Com Fischsauce 725ml – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 499,
+      "internalProductId": "00946",
+      "name": "Klebreiskuchen Banane Madame Wong 454g",
+      "description": "Klebreiskuchen Banane Madame Wong 454g – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TIEFKÜHLWAREN"],
+      "images": []
+    },
+    {
+      "id": 500,
+      "internalProductId": "00947",
+      "name": "Lychee Frisch aus Vietnam - Qua vai tuoi 1kg",
+      "description": "Lychee Frisch aus Vietnam - Qua vai tuoi 1kg – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 501,
+      "internalProductId": "00948",
+      "name": "Verpackungsbecher 125cc + Deckel rund (1x100)",
+      "description": "Verpackungsbecher 125cc + Deckel rund (1x100) – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["VERPACKUNGEN"],
+      "images": []
+    },
+    {
+      "id": 502,
+      "internalProductId": "00949",
+      "name": "Edamame geschält 500g",
+      "description": "Edamame geschält 500g – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 503,
+      "internalProductId": "00950",
+      "name": "Soja Sauce, Fischform 150st x 8ml - Melda",
+      "description": "Soja Sauce, Fischform 150st x 8ml - Melda – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 504,
+      "internalProductId": "00951",
+      "name": "Sushireis Sakura 18kg",
+      "description": "Sushireis Sakura 18kg – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["SUSHIPRODUKTE"],
+      "images": []
+    },
+    {
+      "id": 505,
+      "internalProductId": "00952",
+      "name": "Thai Jasmin Langkornduftreis 18 Kg - Gao Thai Thom",
+      "description": "Thai Jasmin Langkornduftreis 18 Kg - Gao Thai Thom – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 506,
+      "internalProductId": "00953",
+      "name": "Kokoskaramel 300ml - Nuoc Mau Cot Dua",
+      "description": "Kokoskaramel 300ml - Nuoc Mau Cot Dua – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 507,
+      "internalProductId": "00954",
+      "name": "Mochi Reiskuchen Y&L 210g",
+      "description": "Mochi Reiskuchen Y&L 210g – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
+      "images": []
+    },
+    {
+      "id": 508,
+      "internalProductId": "00955",
+      "name": "HACAO Gemüse - Dumpling 500g",
+      "description": "HACAO Gemüse - Dumpling 500g – Produktbeschreibung folgt.",
+      "unit": "Packung",
+      "price": 0,
+      "remarks": "",
+      "tags": ["TROCKENWAREN"],
       "images": []
     }
 
