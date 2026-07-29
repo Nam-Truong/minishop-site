@@ -7044,19 +7044,6 @@
         "TROCKENWAREN"
       ],
       "images": []
-    },
-    {
-      "id": 509,
-      "internalProductId": "09990",
-      "name": "test",
-      "description": "test",
-      "unit": "kg",
-      "price": 10,
-      "remarks": "",
-      "tags": [
-        "drink"
-      ],
-      "images": []
     }
   ]
 }
