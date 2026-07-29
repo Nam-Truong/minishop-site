@@ -15,8 +15,18 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "20 Packungen = 1 Karton",
-      "tags": ["Nudeln", "Reis", "Asiatisch", "noodle", "rice", "mi goi"],
-      "images": ["00498.webp", "various-noodles.webp"]
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "Asiatisch",
+        "noodle",
+        "rice",
+        "mi goi"
+      ],
+      "images": [
+        "00498.webp",
+        "various-noodles.webp"
+      ]
     },
     {
       "id": 2,
@@ -26,8 +36,18 @@
       "unit": "Sack",
       "price": 40,
       "remarks": "",
-      "tags": ["Reis", "Langkorn", "Asiatisch", "rice", "gao"],
-      "images": ["00460.webp", "00460_001.png", "00460_002.png"]
+      "tags": [
+        "Reis",
+        "Langkorn",
+        "Asiatisch",
+        "rice",
+        "gao"
+      ],
+      "images": [
+        "00460.webp",
+        "00460_001.png",
+        "00460_002.png"
+      ]
     },
     {
       "id": 3,
@@ -37,8 +57,17 @@
       "unit": "Flasche",
       "price": 3.5,
       "remarks": "12 Flaschen = 1 Karton",
-      "tags": ["Sauce", "Chili", "Asiatisch", "sriracha", "scharf"],
-      "images": ["00834.webp", "00834.jpeg"]
+      "tags": [
+        "Sauce",
+        "Chili",
+        "Asiatisch",
+        "sriracha",
+        "scharf"
+      ],
+      "images": [
+        "00834.webp",
+        "00834.jpeg"
+      ]
     },
     {
       "id": 4,
@@ -48,8 +77,18 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "24 Packungen = 1 Karton",
-      "tags": ["Kaffee", "Instant", "Getränk", "coffee", "instant", "drink"],
-      "images": ["00445.webp", "g7.jpg"]
+      "tags": [
+        "Kaffee",
+        "Instant",
+        "Getränk",
+        "coffee",
+        "instant",
+        "drink"
+      ],
+      "images": [
+        "00445.webp",
+        "g7.jpg"
+      ]
     },
     {
       "id": 5,
@@ -59,8 +98,18 @@
       "unit": "Karton",
       "price": 15,
       "remarks": "",
-      "tags": ["Nudeln", "Instant", "Asiatisch", "noodle", "instant", "mi goi"],
-      "images": ["00482.webp", "beef-instant-noodle.png"]
+      "tags": [
+        "Nudeln",
+        "Instant",
+        "Asiatisch",
+        "noodle",
+        "instant",
+        "mi goi"
+      ],
+      "images": [
+        "00482.webp",
+        "beef-instant-noodle.png"
+      ]
     },
     {
       "id": 6,
@@ -70,7 +119,9 @@
       "unit": "Dose",
       "price": 4.2,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -81,7 +132,9 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -92,8 +145,12 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Gemüse"],
-      "images": ["00009.png"]
+      "tags": [
+        "Gemüse"
+      ],
+      "images": [
+        "00009.png"
+      ]
     },
     {
       "id": 9,
@@ -103,7 +160,9 @@
       "unit": "Dose",
       "price": 9.3,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -114,7 +173,9 @@
       "unit": "Dose",
       "price": 8.6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -125,7 +186,9 @@
       "unit": "Dose",
       "price": 13,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -136,7 +199,9 @@
       "unit": "Eimer",
       "price": 19,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -147,7 +212,9 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -158,8 +225,12 @@
       "unit": "kg",
       "price": 13,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00025.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00025.png"
+      ]
     },
     {
       "id": 15,
@@ -169,8 +240,12 @@
       "unit": "Stk.",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00026.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00026.png"
+      ]
     },
     {
       "id": 16,
@@ -180,8 +255,12 @@
       "unit": "kg",
       "price": 13,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00027.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00027.png"
+      ]
     },
     {
       "id": 17,
@@ -191,8 +270,12 @@
       "unit": "kg",
       "price": 25,
       "remarks": "",
-      "tags": ["Gemüse"],
-      "images": ["00029.png"]
+      "tags": [
+        "Gemüse"
+      ],
+      "images": [
+        "00029.png"
+      ]
     },
     {
       "id": 18,
@@ -202,8 +285,12 @@
       "unit": "Stk.",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gemüse"],
-      "images": ["00030.png"]
+      "tags": [
+        "Gemüse"
+      ],
+      "images": [
+        "00030.png"
+      ]
     },
     {
       "id": 19,
@@ -213,7 +300,9 @@
       "unit": "Eimer",
       "price": 18,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -224,7 +313,9 @@
       "unit": "Dose",
       "price": 11,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -235,7 +326,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -246,7 +339,9 @@
       "unit": "Beutel",
       "price": 9,
       "remarks": "",
-      "tags": ["Sesam"],
+      "tags": [
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -257,7 +352,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -268,7 +365,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -279,7 +378,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -290,7 +391,10 @@
       "unit": "Beutel",
       "price": 7.5,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -301,7 +405,10 @@
       "unit": "Karton",
       "price": 152,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -312,7 +419,9 @@
       "unit": "Karton",
       "price": 157,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -323,7 +432,10 @@
       "unit": "Karton",
       "price": 167,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -334,7 +446,10 @@
       "unit": "Karton",
       "price": 120,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -345,7 +460,10 @@
       "unit": "Karton",
       "price": 172,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -356,7 +474,10 @@
       "unit": "Karton",
       "price": 125,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -367,7 +488,10 @@
       "unit": "Karton",
       "price": 177,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -378,7 +502,10 @@
       "unit": "Karton",
       "price": 135,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -389,7 +516,10 @@
       "unit": "Karton",
       "price": 182,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -400,7 +530,10 @@
       "unit": "Karton",
       "price": 130,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -411,7 +544,10 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -422,7 +558,10 @@
       "unit": "Packung",
       "price": 7,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -433,7 +572,9 @@
       "unit": "Karton",
       "price": 620,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -444,7 +585,10 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -455,7 +599,11 @@
       "unit": "kg",
       "price": 14.5,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Verpackung"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -466,7 +614,11 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Verpackung"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -477,7 +629,10 @@
       "unit": "kg",
       "price": 17,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -488,7 +643,9 @@
       "unit": "kg",
       "price": 18,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -499,7 +656,10 @@
       "unit": "Packung",
       "price": 14,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -510,7 +670,10 @@
       "unit": "kg",
       "price": 13,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -521,7 +684,10 @@
       "unit": "kg",
       "price": 11,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -532,7 +698,10 @@
       "unit": "kg",
       "price": 12,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -543,7 +712,10 @@
       "unit": "kg",
       "price": 19.5,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -554,7 +726,10 @@
       "unit": "kg",
       "price": 20,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -565,7 +740,10 @@
       "unit": "kg",
       "price": 13,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -576,7 +754,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -587,7 +767,10 @@
       "unit": "kg",
       "price": 19,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -598,7 +781,11 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["Tintenfisch", "Meeresfrüchte", "Fisch"],
+      "tags": [
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
       "images": []
     },
     {
@@ -609,7 +796,11 @@
       "unit": "Packung",
       "price": 4,
       "remarks": "",
-      "tags": ["Tintenfisch", "Meeresfrüchte", "Fisch"],
+      "tags": [
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
       "images": []
     },
     {
@@ -620,7 +811,11 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Tintenfisch", "Meeresfrüchte", "Fisch"],
+      "tags": [
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
       "images": []
     },
     {
@@ -631,7 +826,11 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Tintenfisch", "Meeresfrüchte", "Fisch"],
+      "tags": [
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
       "images": []
     },
     {
@@ -642,7 +841,10 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Frühlingsrolle", "Gemüse"],
+      "tags": [
+        "Frühlingsrolle",
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -653,7 +855,10 @@
       "unit": "Beutel",
       "price": 19,
       "remarks": "",
-      "tags": ["Geflügel", "Frühlingsrolle"],
+      "tags": [
+        "Geflügel",
+        "Frühlingsrolle"
+      ],
       "images": []
     },
     {
@@ -664,7 +869,10 @@
       "unit": "Beutel",
       "price": 19,
       "remarks": "",
-      "tags": ["Schwein", "Frühlingsrolle"],
+      "tags": [
+        "Schwein",
+        "Frühlingsrolle"
+      ],
       "images": []
     },
     {
@@ -675,7 +883,9 @@
       "unit": "Beutel",
       "price": 4.5,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -686,7 +896,9 @@
       "unit": "Packung",
       "price": 4,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -697,7 +909,9 @@
       "unit": "Packung",
       "price": 7,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -708,7 +922,10 @@
       "unit": "Packung",
       "price": 7.5,
       "remarks": "",
-      "tags": ["Teigtaschen", "Gemüse"],
+      "tags": [
+        "Teigtaschen",
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -719,7 +936,9 @@
       "unit": "Karton",
       "price": 115,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -730,7 +949,9 @@
       "unit": "Packung",
       "price": 5.7,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -741,7 +962,11 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Teigtaschen"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -752,7 +977,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Frühlingsrolle"],
+      "tags": [
+        "Frühlingsrolle"
+      ],
       "images": []
     },
     {
@@ -763,7 +990,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Frühlingsrolle"],
+      "tags": [
+        "Frühlingsrolle"
+      ],
       "images": []
     },
     {
@@ -774,7 +1003,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -785,7 +1016,9 @@
       "unit": "Packung",
       "price": 4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -796,8 +1029,12 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gemüse"],
-      "images": ["00134.png"]
+      "tags": [
+        "Gemüse"
+      ],
+      "images": [
+        "00134.png"
+      ]
     },
     {
       "id": 73,
@@ -807,8 +1044,12 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Geflügel"],
-      "images": ["00135.png"]
+      "tags": [
+        "Geflügel"
+      ],
+      "images": [
+        "00135.png"
+      ]
     },
     {
       "id": 74,
@@ -818,7 +1059,9 @@
       "unit": "Beutel",
       "price": 5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -829,8 +1072,12 @@
       "unit": "Beutel",
       "price": 10,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00141.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00141.png"
+      ]
     },
     {
       "id": 76,
@@ -840,7 +1087,10 @@
       "unit": "Beutel",
       "price": 6,
       "remarks": "",
-      "tags": ["Schwein", "Gewürz"],
+      "tags": [
+        "Schwein",
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -851,7 +1101,10 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -862,7 +1115,9 @@
       "unit": "Flasche",
       "price": 4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -873,7 +1128,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -884,7 +1141,9 @@
       "unit": "Beutel",
       "price": 1,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -895,7 +1154,9 @@
       "unit": "Beutel",
       "price": 3,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -906,7 +1167,10 @@
       "unit": "Beutel",
       "price": 3,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -917,7 +1181,9 @@
       "unit": "Kanister",
       "price": 10,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -928,7 +1194,9 @@
       "unit": "Kanister",
       "price": 10,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -939,8 +1207,12 @@
       "unit": "Flasche",
       "price": 8,
       "remarks": "",
-      "tags": ["Sesam"],
-      "images": ["00154.png"]
+      "tags": [
+        "Sesam"
+      ],
+      "images": [
+        "00154.png"
+      ]
     },
     {
       "id": 86,
@@ -950,8 +1222,14 @@
       "unit": "Beutel",
       "price": 5.5,
       "remarks": "",
-      "tags": ["Chili", "scharf", "Gewürz"],
-      "images": ["00156.png"]
+      "tags": [
+        "Chili",
+        "scharf",
+        "Gewürz"
+      ],
+      "images": [
+        "00156.png"
+      ]
     },
     {
       "id": 87,
@@ -961,8 +1239,13 @@
       "unit": "Beutel",
       "price": 10,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
-      "images": ["00157.png"]
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
+      "images": [
+        "00157.png"
+      ]
     },
     {
       "id": 88,
@@ -972,8 +1255,13 @@
       "unit": "Beutel",
       "price": 10,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
-      "images": ["00158.png"]
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
+      "images": [
+        "00158.png"
+      ]
     },
     {
       "id": 89,
@@ -983,7 +1271,9 @@
       "unit": "Beutel",
       "price": 1,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -994,7 +1284,9 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -1005,8 +1297,12 @@
       "unit": "Packung",
       "price": 9,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00162.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00162.png"
+      ]
     },
     {
       "id": 92,
@@ -1016,8 +1312,12 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00163.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00163.png"
+      ]
     },
     {
       "id": 93,
@@ -1027,8 +1327,12 @@
       "unit": "Packung",
       "price": 18,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00168.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00168.png"
+      ]
     },
     {
       "id": 94,
@@ -1038,8 +1342,12 @@
       "unit": "Beutel",
       "price": 7,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00169.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00169.png"
+      ]
     },
     {
       "id": 95,
@@ -1049,7 +1357,9 @@
       "unit": "Beutel",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -1060,7 +1370,9 @@
       "unit": "Beutel",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -1071,7 +1383,9 @@
       "unit": "Karton",
       "price": 60,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -1082,7 +1396,9 @@
       "unit": "Stück",
       "price": 4.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1093,8 +1409,12 @@
       "unit": "Flasche",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sauce"],
-      "images": ["00180.png"]
+      "tags": [
+        "Sauce"
+      ],
+      "images": [
+        "00180.png"
+      ]
     },
     {
       "id": 100,
@@ -1104,7 +1424,9 @@
       "unit": "Dose",
       "price": 9,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1115,8 +1437,12 @@
       "unit": "Kanister",
       "price": 19,
       "remarks": "",
-      "tags": ["Sauce"],
-      "images": ["00182.jpeg"]
+      "tags": [
+        "Sauce"
+      ],
+      "images": [
+        "00182.jpeg"
+      ]
     },
     {
       "id": 102,
@@ -1126,8 +1452,12 @@
       "unit": "Dose",
       "price": 8,
       "remarks": "",
-      "tags": ["Sauce"],
-      "images": ["00183.png"]
+      "tags": [
+        "Sauce"
+      ],
+      "images": [
+        "00183.png"
+      ]
     },
     {
       "id": 103,
@@ -1137,7 +1467,9 @@
       "unit": "Flasche",
       "price": 10,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1148,7 +1480,9 @@
       "unit": "Kanister",
       "price": 20,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1159,7 +1493,9 @@
       "unit": "Kanister",
       "price": 21,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1170,7 +1506,9 @@
       "unit": "Kanister",
       "price": 21,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1181,7 +1519,9 @@
       "unit": "Kanister",
       "price": 21,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1192,7 +1532,9 @@
       "unit": "Kanister",
       "price": 20,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1203,7 +1545,9 @@
       "unit": "Kanister",
       "price": 21,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1214,7 +1558,9 @@
       "unit": "Kanister",
       "price": 21,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1225,7 +1571,9 @@
       "unit": "Flasche",
       "price": 17,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -1236,7 +1584,9 @@
       "unit": "Kanister",
       "price": 17,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1247,7 +1597,9 @@
       "unit": "Dose",
       "price": 3.3,
       "remarks": "",
-      "tags": ["Kokos"],
+      "tags": [
+        "Kokos"
+      ],
       "images": []
     },
     {
@@ -1258,7 +1610,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Kokos"],
+      "tags": [
+        "Kokos"
+      ],
       "images": []
     },
     {
@@ -1269,7 +1623,9 @@
       "unit": "Sack",
       "price": 28,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1280,7 +1636,11 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Reis", "rice", "Mehl"],
+      "tags": [
+        "Reis",
+        "rice",
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1291,7 +1651,10 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Teigtaschen", "Mehl"],
+      "tags": [
+        "Teigtaschen",
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1302,7 +1665,11 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Reispapier", "Reis", "Mehl"],
+      "tags": [
+        "Reispapier",
+        "Reis",
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1313,7 +1680,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1324,7 +1693,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1335,7 +1706,9 @@
       "unit": "Beutel",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -1346,7 +1719,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1357,7 +1732,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1368,7 +1745,9 @@
       "unit": "Packung",
       "price": 4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1379,7 +1758,9 @@
       "unit": "Packung",
       "price": 3.7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1390,7 +1771,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1401,7 +1784,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1412,7 +1797,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1423,7 +1810,9 @@
       "unit": "Packung",
       "price": 4,
       "remarks": "",
-      "tags": ["Erdnuss"],
+      "tags": [
+        "Erdnuss"
+      ],
       "images": []
     },
     {
@@ -1434,7 +1823,9 @@
       "unit": "Beutel",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1445,7 +1836,9 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1456,8 +1849,12 @@
       "unit": "Beutel",
       "price": 4,
       "remarks": "",
-      "tags": ["Gemüse"],
-      "images": ["00228.png"]
+      "tags": [
+        "Gemüse"
+      ],
+      "images": [
+        "00228.png"
+      ]
     },
     {
       "id": 133,
@@ -1467,7 +1864,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -1478,7 +1877,9 @@
       "unit": "Glas",
       "price": 3,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1489,8 +1890,13 @@
       "unit": "Karton",
       "price": 35,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
-      "images": ["00237.jpeg"]
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
+      "images": [
+        "00237.jpeg"
+      ]
     },
     {
       "id": 136,
@@ -1500,7 +1906,10 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -1511,7 +1920,12 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -1522,7 +1936,12 @@
       "unit": "Karton",
       "price": 32,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -1533,7 +1952,10 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -1544,7 +1966,10 @@
       "unit": "Karton",
       "price": 16,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -1555,7 +1980,10 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -1566,8 +1994,13 @@
       "unit": "Sack",
       "price": 39,
       "remarks": "",
-      "tags": ["Reis", "rice"],
-      "images": ["00259.png"]
+      "tags": [
+        "Reis",
+        "rice"
+      ],
+      "images": [
+        "00259.png"
+      ]
     },
     {
       "id": 143,
@@ -1577,7 +2010,11 @@
       "unit": "Packung",
       "price": 5.5,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Sushi"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -1588,7 +2025,9 @@
       "unit": "Beutel",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1599,7 +2038,10 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -1610,7 +2052,10 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Sushi", "Gewürz"],
+      "tags": [
+        "Sushi",
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -1621,7 +2066,9 @@
       "unit": "Packung",
       "price": 4.5,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -1632,8 +2079,12 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00277.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00277.png"
+      ]
     },
     {
       "id": 149,
@@ -1643,8 +2094,12 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Sushi"],
-      "images": ["00278.png"]
+      "tags": [
+        "Sushi"
+      ],
+      "images": [
+        "00278.png"
+      ]
     },
     {
       "id": 150,
@@ -1654,7 +2109,11 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte", "Sushi"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte",
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -1665,7 +2124,10 @@
       "unit": "Packung",
       "price": 28.8,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1676,8 +2138,12 @@
       "unit": "Packung",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00283.jpeg"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00283.jpeg"
+      ]
     },
     {
       "id": 153,
@@ -1687,7 +2153,9 @@
       "unit": "Packung",
       "price": 5.7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1698,7 +2166,9 @@
       "unit": "Packung",
       "price": 10.9,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1709,7 +2179,9 @@
       "unit": "Packung",
       "price": 3.7,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1720,7 +2192,9 @@
       "unit": "Packung",
       "price": 4.8,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1731,7 +2205,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1742,7 +2218,9 @@
       "unit": "Packung",
       "price": 5.5,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1753,7 +2231,9 @@
       "unit": "Packung",
       "price": 19,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1764,8 +2244,13 @@
       "unit": "Packung",
       "price": 19,
       "remarks": "",
-      "tags": ["Verpackung"],
-      "images": ["00295 (1).jpeg", "00295.jpeg"]
+      "tags": [
+        "Verpackung"
+      ],
+      "images": [
+        "00295 (1).jpeg",
+        "00295.jpeg"
+      ]
     },
     {
       "id": 161,
@@ -1775,7 +2260,9 @@
       "unit": "Packung",
       "price": 19,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1786,7 +2273,9 @@
       "unit": "Packung",
       "price": 5.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1797,7 +2286,9 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1808,7 +2299,9 @@
       "unit": "Packung",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1819,7 +2312,9 @@
       "unit": "Packung",
       "price": 4.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1830,7 +2325,9 @@
       "unit": "Packung",
       "price": 9.4,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1841,7 +2338,9 @@
       "unit": "Packung",
       "price": 9,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1852,7 +2351,9 @@
       "unit": "Packung",
       "price": 16,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1863,7 +2364,9 @@
       "unit": "Packung",
       "price": 16,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1874,7 +2377,9 @@
       "unit": "Packung",
       "price": 7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1885,7 +2390,9 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1896,7 +2403,9 @@
       "unit": "Packung",
       "price": 10.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1907,7 +2416,9 @@
       "unit": "Packung",
       "price": 12.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1918,7 +2429,9 @@
       "unit": "Packung",
       "price": 14.2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1929,7 +2442,9 @@
       "unit": "Packung",
       "price": 14.2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1940,7 +2455,9 @@
       "unit": "Rolle",
       "price": 7,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1951,7 +2468,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1962,7 +2481,9 @@
       "unit": "Karton",
       "price": 23,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1973,7 +2494,9 @@
       "unit": "Packung",
       "price": 2.2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -1984,7 +2507,9 @@
       "unit": "Packung",
       "price": 7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -1995,7 +2520,9 @@
       "unit": "Packung",
       "price": 7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2006,7 +2533,9 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2017,8 +2546,12 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Verpackung"],
-      "images": ["00324.png"]
+      "tags": [
+        "Verpackung"
+      ],
+      "images": [
+        "00324.png"
+      ]
     },
     {
       "id": 184,
@@ -2028,7 +2561,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2039,7 +2574,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2050,7 +2587,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2061,8 +2600,12 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Verpackung"],
-      "images": ["00331.png"]
+      "tags": [
+        "Verpackung"
+      ],
+      "images": [
+        "00331.png"
+      ]
     },
     {
       "id": 188,
@@ -2072,7 +2615,9 @@
       "unit": "Rolle",
       "price": 3,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2083,7 +2628,9 @@
       "unit": "Packung",
       "price": 1.3,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2094,7 +2641,9 @@
       "unit": "Packung",
       "price": 1.2,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2105,7 +2654,9 @@
       "unit": "Flasche",
       "price": 5,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -2116,7 +2667,9 @@
       "unit": "Packung",
       "price": 2.7,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -2127,7 +2680,10 @@
       "unit": "Kanister",
       "price": 15,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2138,7 +2694,10 @@
       "unit": "Kanister",
       "price": 42,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2149,7 +2708,9 @@
       "unit": "Flasche",
       "price": 4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2160,7 +2721,9 @@
       "unit": "Kanister",
       "price": 22,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2171,7 +2734,9 @@
       "unit": "Flasche",
       "price": 15,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -2182,7 +2747,10 @@
       "unit": "Flasche",
       "price": 15,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2193,7 +2761,10 @@
       "unit": "Flasche",
       "price": 15,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2204,7 +2775,9 @@
       "unit": "Flasche",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2215,7 +2788,9 @@
       "unit": "Flasche",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2226,7 +2801,10 @@
       "unit": "Flasche",
       "price": 10,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2237,7 +2815,10 @@
       "unit": "Karton",
       "price": 30,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2248,7 +2829,9 @@
       "unit": "Kanister",
       "price": 8,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2259,7 +2842,10 @@
       "unit": "Flasche",
       "price": 15,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -2270,7 +2856,9 @@
       "unit": "Packung",
       "price": 22,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2281,7 +2869,9 @@
       "unit": "Karton",
       "price": 53,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2292,7 +2882,9 @@
       "unit": "Packung",
       "price": 14.6,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2303,7 +2895,10 @@
       "unit": "kg",
       "price": 4,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2314,7 +2909,9 @@
       "unit": "Karton",
       "price": 65,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2325,7 +2922,9 @@
       "unit": "Karton",
       "price": 70,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2336,7 +2935,9 @@
       "unit": "Karton",
       "price": 75,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2347,7 +2948,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -2358,7 +2961,9 @@
       "unit": "Dose",
       "price": 1.7,
       "remarks": "",
-      "tags": ["Kokos"],
+      "tags": [
+        "Kokos"
+      ],
       "images": []
     },
     {
@@ -2369,8 +2974,13 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
-      "images": ["00376.png"]
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
+      "images": [
+        "00376.png"
+      ]
     },
     {
       "id": 216,
@@ -2380,8 +2990,14 @@
       "unit": "Fl",
       "price": 5,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf"],
-      "images": ["00382.jpeg"]
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf"
+      ],
+      "images": [
+        "00382.jpeg"
+      ]
     },
     {
       "id": 217,
@@ -2391,8 +3007,14 @@
       "unit": "Flasche",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf"],
-      "images": ["00384.jpeg"]
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf"
+      ],
+      "images": [
+        "00384.jpeg"
+      ]
     },
     {
       "id": 218,
@@ -2402,7 +3024,10 @@
       "unit": "Eimer",
       "price": 25,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -2413,8 +3038,12 @@
       "unit": "Eimer",
       "price": 40,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00386.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00386.png"
+      ]
     },
     {
       "id": 220,
@@ -2424,8 +3053,15 @@
       "unit": "Fl",
       "price": 3,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf", "Geflügel"],
-      "images": ["00390.png"]
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf",
+        "Geflügel"
+      ],
+      "images": [
+        "00390.png"
+      ]
     },
     {
       "id": 221,
@@ -2435,7 +3071,12 @@
       "unit": "Fl",
       "price": 1.5,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf", "Geflügel"],
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2446,7 +3087,12 @@
       "unit": "Eimer",
       "price": 14,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf", "Geflügel"],
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2457,8 +3103,15 @@
       "unit": "Flasche",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sauce", "Tintenfisch", "Meeresfrüchte", "Fisch"],
-      "images": ["00396.png"]
+      "tags": [
+        "Sauce",
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
+      "images": [
+        "00396.png"
+      ]
     },
     {
       "id": 224,
@@ -2468,8 +3121,15 @@
       "unit": "Flasche",
       "price": 3,
       "remarks": "",
-      "tags": ["Sauce", "Tintenfisch", "Meeresfrüchte", "Fisch"],
-      "images": ["00397.png"]
+      "tags": [
+        "Sauce",
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
+      "images": [
+        "00397.png"
+      ]
     },
     {
       "id": 225,
@@ -2479,8 +3139,15 @@
       "unit": "Kanister",
       "price": 14,
       "remarks": "",
-      "tags": ["Sauce", "Tintenfisch", "Meeresfrüchte", "Fisch"],
-      "images": ["00399.png"]
+      "tags": [
+        "Sauce",
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
+      "images": [
+        "00399.png"
+      ]
     },
     {
       "id": 226,
@@ -2490,8 +3157,13 @@
       "unit": "Flasche",
       "price": 8,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
-      "images": ["00401.png"]
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
+      "images": [
+        "00401.png"
+      ]
     },
     {
       "id": 227,
@@ -2501,7 +3173,11 @@
       "unit": "Flasche",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sauce", "Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Sauce",
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -2512,7 +3188,11 @@
       "unit": "Kanister",
       "price": 13,
       "remarks": "",
-      "tags": ["Sauce", "Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Sauce",
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -2523,8 +3203,13 @@
       "unit": "Becher",
       "price": 6,
       "remarks": "",
-      "tags": ["Curry", "Gewürz"],
-      "images": ["00407.png"]
+      "tags": [
+        "Curry",
+        "Gewürz"
+      ],
+      "images": [
+        "00407.png"
+      ]
     },
     {
       "id": 230,
@@ -2534,8 +3219,13 @@
       "unit": "Becher",
       "price": 6,
       "remarks": "",
-      "tags": ["Curry", "Gewürz"],
-      "images": ["00409.png"]
+      "tags": [
+        "Curry",
+        "Gewürz"
+      ],
+      "images": [
+        "00409.png"
+      ]
     },
     {
       "id": 231,
@@ -2545,7 +3235,10 @@
       "unit": "Becher",
       "price": 6,
       "remarks": "",
-      "tags": ["Curry", "Gewürz"],
+      "tags": [
+        "Curry",
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -2556,8 +3249,13 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Curry", "Gewürz"],
-      "images": ["00413.png"]
+      "tags": [
+        "Curry",
+        "Gewürz"
+      ],
+      "images": [
+        "00413.png"
+      ]
     },
     {
       "id": 233,
@@ -2567,8 +3265,13 @@
       "unit": "Glas",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Gewürz", "Erdnuss"],
-      "images": ["00414.png"]
+      "tags": [
+        "Gewürz",
+        "Erdnuss"
+      ],
+      "images": [
+        "00414.png"
+      ]
     },
     {
       "id": 234,
@@ -2578,7 +3281,10 @@
       "unit": "Eimer",
       "price": 45,
       "remarks": "",
-      "tags": ["Gewürz", "Erdnuss"],
+      "tags": [
+        "Gewürz",
+        "Erdnuss"
+      ],
       "images": []
     },
     {
@@ -2589,8 +3295,14 @@
       "unit": "Dose",
       "price": 7,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Gewürz"],
-      "images": ["00416.png"]
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Gewürz"
+      ],
+      "images": [
+        "00416.png"
+      ]
     },
     {
       "id": 236,
@@ -2600,7 +3312,10 @@
       "unit": "Karton",
       "price": 132,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2611,7 +3326,10 @@
       "unit": "Karton",
       "price": 87,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2622,7 +3340,10 @@
       "unit": "Karton",
       "price": 87,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2633,7 +3354,10 @@
       "unit": "Karton",
       "price": 90,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2644,7 +3368,10 @@
       "unit": "Karton",
       "price": 140,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2655,7 +3382,10 @@
       "unit": "Karton",
       "price": 108,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2666,7 +3396,10 @@
       "unit": "Karton",
       "price": 108,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2677,7 +3410,9 @@
       "unit": "Karton",
       "price": 56,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2688,7 +3423,9 @@
       "unit": "Karton",
       "price": 56,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2699,7 +3436,9 @@
       "unit": "Karton",
       "price": 59,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2710,7 +3449,9 @@
       "unit": "Karton",
       "price": 55,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -2721,7 +3462,9 @@
       "unit": "Stück",
       "price": 4.2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2732,7 +3475,10 @@
       "unit": "kg",
       "price": 6.5,
       "remarks": "",
-      "tags": ["Schwein", "Verpackung"],
+      "tags": [
+        "Schwein",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -2743,7 +3489,9 @@
       "unit": "kg",
       "price": 13,
       "remarks": "",
-      "tags": ["Rind"],
+      "tags": [
+        "Rind"
+      ],
       "images": []
     },
     {
@@ -2754,7 +3502,9 @@
       "unit": "Karton",
       "price": 22,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -2765,7 +3515,9 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Frühlingsrolle"],
+      "tags": [
+        "Frühlingsrolle"
+      ],
       "images": []
     },
     {
@@ -2776,7 +3528,10 @@
       "unit": "Sack",
       "price": 28,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2787,8 +3542,13 @@
       "unit": "Sack",
       "price": 26,
       "remarks": "",
-      "tags": ["Reis", "rice"],
-      "images": ["00462.png"]
+      "tags": [
+        "Reis",
+        "rice"
+      ],
+      "images": [
+        "00462.png"
+      ]
     },
     {
       "id": 254,
@@ -2798,8 +3558,13 @@
       "unit": "Sack",
       "price": 32,
       "remarks": "",
-      "tags": ["Reis", "rice"],
-      "images": ["00463.png"]
+      "tags": [
+        "Reis",
+        "rice"
+      ],
+      "images": [
+        "00463.png"
+      ]
     },
     {
       "id": 255,
@@ -2809,8 +3574,13 @@
       "unit": "Sack",
       "price": 26,
       "remarks": "",
-      "tags": ["Reis", "rice"],
-      "images": ["00465.png"]
+      "tags": [
+        "Reis",
+        "rice"
+      ],
+      "images": [
+        "00465.png"
+      ]
     },
     {
       "id": 256,
@@ -2820,7 +3590,10 @@
       "unit": "Sack",
       "price": 25,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2831,7 +3604,10 @@
       "unit": "Sack",
       "price": 25,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2842,7 +3618,10 @@
       "unit": "Sack",
       "price": 28,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2853,7 +3632,10 @@
       "unit": "kg",
       "price": 3,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2864,7 +3646,10 @@
       "unit": "Sack",
       "price": 14,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2875,7 +3660,10 @@
       "unit": "Karton",
       "price": 37,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2886,7 +3674,10 @@
       "unit": "Karton",
       "price": 33,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2897,7 +3688,10 @@
       "unit": "Karton",
       "price": 38,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2908,7 +3702,10 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2919,7 +3716,10 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2930,7 +3730,10 @@
       "unit": "Karton",
       "price": 56,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2941,7 +3744,10 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2952,7 +3758,10 @@
       "unit": "Karton",
       "price": 14,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -2963,7 +3772,12 @@
       "unit": "Packung",
       "price": 1.4,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2974,7 +3788,12 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2985,7 +3804,12 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -2996,7 +3820,12 @@
       "unit": "Karton",
       "price": 33,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -3007,7 +3836,10 @@
       "unit": "Karton",
       "price": 35,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -3018,7 +3850,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3029,7 +3863,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3040,8 +3876,12 @@
       "unit": "Beutel",
       "price": 10,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00518.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00518.png"
+      ]
     },
     {
       "id": 277,
@@ -3051,7 +3891,9 @@
       "unit": "Beutel",
       "price": 9,
       "remarks": "",
-      "tags": ["Sesam"],
+      "tags": [
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -3062,7 +3904,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3073,7 +3917,9 @@
       "unit": "Beutel",
       "price": 13,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3084,7 +3930,9 @@
       "unit": "kg",
       "price": 23,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3095,7 +3943,9 @@
       "unit": "kg",
       "price": 23,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -3106,7 +3956,9 @@
       "unit": "kg",
       "price": 23,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -3117,8 +3969,12 @@
       "unit": "Kanister",
       "price": 17,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00530.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00530.png"
+      ]
     },
     {
       "id": 284,
@@ -3128,7 +3984,9 @@
       "unit": "Packung",
       "price": 8.5,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -3139,7 +3997,9 @@
       "unit": "Eimer",
       "price": 10,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3150,7 +4010,9 @@
       "unit": "Sack",
       "price": 15,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3161,7 +4023,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -3172,8 +4036,13 @@
       "unit": "Sack",
       "price": 45,
       "remarks": "",
-      "tags": ["Mehl"],
-      "images": ["00545.jpeg", "00545.png"]
+      "tags": [
+        "Mehl"
+      ],
+      "images": [
+        "00545.jpeg",
+        "00545.png"
+      ]
     },
     {
       "id": 289,
@@ -3183,8 +4052,12 @@
       "unit": "Sack",
       "price": 27,
       "remarks": "",
-      "tags": ["Mehl"],
-      "images": ["00548.png"]
+      "tags": [
+        "Mehl"
+      ],
+      "images": [
+        "00548.png"
+      ]
     },
     {
       "id": 290,
@@ -3194,7 +4067,9 @@
       "unit": "Karton",
       "price": 55,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -3205,7 +4080,9 @@
       "unit": "Karton",
       "price": 75,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3216,7 +4093,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3227,7 +4106,9 @@
       "unit": "Beutel",
       "price": 3,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3238,7 +4119,9 @@
       "unit": "Sack",
       "price": 27,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3249,7 +4132,9 @@
       "unit": "Sack",
       "price": 13,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3260,7 +4145,9 @@
       "unit": "Kiste",
       "price": 16,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -3271,7 +4158,9 @@
       "unit": "Packung",
       "price": 1.8,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3282,7 +4171,9 @@
       "unit": "Packung",
       "price": 2.9,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3293,7 +4184,10 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -3304,7 +4198,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3315,7 +4211,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3326,7 +4224,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3337,7 +4237,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3348,7 +4250,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3359,8 +4263,12 @@
       "unit": "Beutel",
       "price": 8,
       "remarks": "",
-      "tags": ["Sushi"],
-      "images": ["00600.png"]
+      "tags": [
+        "Sushi"
+      ],
+      "images": [
+        "00600.png"
+      ]
     },
     {
       "id": 306,
@@ -3370,7 +4278,10 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -3381,8 +4292,14 @@
       "unit": "Sack",
       "price": 39,
       "remarks": "",
-      "tags": ["Reis", "rice", "Sushi"],
-      "images": ["00607.jpeg"]
+      "tags": [
+        "Reis",
+        "rice",
+        "Sushi"
+      ],
+      "images": [
+        "00607.jpeg"
+      ]
     },
     {
       "id": 308,
@@ -3392,7 +4309,9 @@
       "unit": "Karton",
       "price": 45,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -3403,7 +4322,10 @@
       "unit": "Karton",
       "price": 65,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3414,7 +4336,10 @@
       "unit": "Karton",
       "price": 62,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3425,7 +4350,10 @@
       "unit": "Karton",
       "price": 70,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3436,7 +4364,10 @@
       "unit": "Packung",
       "price": 19.5,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3447,7 +4378,10 @@
       "unit": "Karton",
       "price": 90,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3458,7 +4392,10 @@
       "unit": "Karton",
       "price": 53.9,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3469,8 +4406,13 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Reispapier", "Reis"],
-      "images": ["00626.png"]
+      "tags": [
+        "Reispapier",
+        "Reis"
+      ],
+      "images": [
+        "00626.png"
+      ]
     },
     {
       "id": 316,
@@ -3480,8 +4422,13 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Reispapier", "Reis"],
-      "images": ["00628.png"]
+      "tags": [
+        "Reispapier",
+        "Reis"
+      ],
+      "images": [
+        "00628.png"
+      ]
     },
     {
       "id": 317,
@@ -3491,7 +4438,10 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Reispapier", "Reis"],
+      "tags": [
+        "Reispapier",
+        "Reis"
+      ],
       "images": []
     },
     {
@@ -3502,7 +4452,9 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3513,7 +4465,9 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3524,7 +4478,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3535,7 +4491,9 @@
       "unit": "Packung",
       "price": 14.3,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3546,7 +4504,9 @@
       "unit": "Packung",
       "price": 14.6,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3557,7 +4517,9 @@
       "unit": "Packung",
       "price": 19,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3568,7 +4530,9 @@
       "unit": "Karton",
       "price": 28,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3579,7 +4543,9 @@
       "unit": "Stück",
       "price": 68,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3590,7 +4556,9 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3601,7 +4569,9 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3612,7 +4582,9 @@
       "unit": "Karton",
       "price": 68,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3623,7 +4595,9 @@
       "unit": "Packung",
       "price": 12.5,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3634,7 +4608,9 @@
       "unit": "Karton",
       "price": 21,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3645,7 +4621,9 @@
       "unit": "Karton",
       "price": 25,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3656,7 +4634,9 @@
       "unit": "Karton",
       "price": 30,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3667,7 +4647,9 @@
       "unit": "Karton",
       "price": 30,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -3678,7 +4660,9 @@
       "unit": "Karton",
       "price": 34,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -3689,7 +4673,9 @@
       "unit": "Karton",
       "price": 27,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -3700,7 +4686,9 @@
       "unit": "Karton",
       "price": 27,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -3711,7 +4699,9 @@
       "unit": "Karton",
       "price": 26,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3722,7 +4712,10 @@
       "unit": "Karton",
       "price": 36,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -3733,7 +4726,10 @@
       "unit": "Karton",
       "price": 36,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -3744,7 +4740,10 @@
       "unit": "Karton",
       "price": 30,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -3755,8 +4754,12 @@
       "unit": "Sack",
       "price": 75,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00718.jpeg"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00718.jpeg"
+      ]
     },
     {
       "id": 342,
@@ -3766,7 +4769,9 @@
       "unit": "Beutel",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3777,7 +4782,9 @@
       "unit": "Stück",
       "price": 0.25,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3788,7 +4795,10 @@
       "unit": "Kiste",
       "price": 6,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -3799,7 +4809,9 @@
       "unit": "Stück",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3810,7 +4822,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -3821,7 +4835,9 @@
       "unit": "Sack",
       "price": 25,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3832,7 +4848,12 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -3843,7 +4864,11 @@
       "unit": "Kanister",
       "price": 18,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf"],
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -3854,7 +4879,9 @@
       "unit": "Packung",
       "price": 8.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3865,7 +4892,9 @@
       "unit": "Flasche",
       "price": 5,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -3876,7 +4905,9 @@
       "unit": "Sack",
       "price": 28,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -3887,7 +4918,9 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Sesam"],
+      "tags": [
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -3898,7 +4931,9 @@
       "unit": "Packung",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -3909,7 +4944,9 @@
       "unit": "Karton",
       "price": 11.9,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -3920,7 +4957,9 @@
       "unit": "Karton",
       "price": 55,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -3931,7 +4970,10 @@
       "unit": "Flasche",
       "price": 0.2,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -3942,7 +4984,11 @@
       "unit": "Flasche",
       "price": 5,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf"],
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -3953,7 +4999,10 @@
       "unit": "Packung",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -3964,7 +5013,10 @@
       "unit": "kg",
       "price": 16,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -3975,7 +5027,9 @@
       "unit": "Stk.",
       "price": 9,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -3986,7 +5040,10 @@
       "unit": "kg",
       "price": 9.1,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -3997,7 +5054,10 @@
       "unit": "kg",
       "price": 11,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -4008,7 +5068,11 @@
       "unit": "Packung",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Teigtaschen"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -4019,8 +5083,14 @@
       "unit": "Kanister",
       "price": 20,
       "remarks": "",
-      "tags": ["Sauce", "Fisch", "Meeresfrüchte"],
-      "images": ["00781.png"]
+      "tags": [
+        "Sauce",
+        "Fisch",
+        "Meeresfrüchte"
+      ],
+      "images": [
+        "00781.png"
+      ]
     },
     {
       "id": 366,
@@ -4030,7 +5100,11 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Sauce", "Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Sauce",
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -4041,7 +5115,9 @@
       "unit": "Packung",
       "price": 11.9,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4052,7 +5128,9 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4063,7 +5141,9 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4074,7 +5154,11 @@
       "unit": "Stück",
       "price": 20,
       "remarks": "",
-      "tags": ["Reis", "rice", "Sushi"],
+      "tags": [
+        "Reis",
+        "rice",
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -4085,7 +5169,9 @@
       "unit": "Eimer",
       "price": 20,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -4096,7 +5182,11 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Reispapier", "Reis", "Sesam"],
+      "tags": [
+        "Reispapier",
+        "Reis",
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -4107,7 +5197,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4118,7 +5210,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4129,7 +5223,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4140,7 +5236,10 @@
       "unit": "kg",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -4151,8 +5250,12 @@
       "unit": "Stück",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Gewürz"],
-      "images": ["00794.png"]
+      "tags": [
+        "Gewürz"
+      ],
+      "images": [
+        "00794.png"
+      ]
     },
     {
       "id": 378,
@@ -4162,7 +5265,9 @@
       "unit": "Beutel",
       "price": 5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4173,7 +5278,9 @@
       "unit": "Beutel",
       "price": 5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4184,7 +5291,9 @@
       "unit": "Packung",
       "price": 4.4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4195,7 +5304,12 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4206,7 +5320,9 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4217,7 +5333,9 @@
       "unit": "Glas",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4228,7 +5346,9 @@
       "unit": "Packung",
       "price": 4.9,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4239,7 +5359,9 @@
       "unit": "Packung",
       "price": 11.9,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4250,7 +5372,9 @@
       "unit": "Packung",
       "price": 11.9,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4261,7 +5385,12 @@
       "unit": "Karton",
       "price": 18,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4272,8 +5401,13 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sushi", "Gewürz"],
-      "images": ["00815.png"]
+      "tags": [
+        "Sushi",
+        "Gewürz"
+      ],
+      "images": [
+        "00815.png"
+      ]
     },
     {
       "id": 389,
@@ -4283,7 +5417,9 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4294,7 +5430,10 @@
       "unit": "Packung",
       "price": 13,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -4305,7 +5444,9 @@
       "unit": "Karton",
       "price": 35,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4316,7 +5457,10 @@
       "unit": "Stk.",
       "price": 1,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -4327,7 +5471,10 @@
       "unit": "Stk.",
       "price": 2,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4338,7 +5485,9 @@
       "unit": "Packung",
       "price": 3,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4349,7 +5498,9 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4360,7 +5511,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4371,7 +5524,10 @@
       "unit": "Sack",
       "price": 30,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4382,7 +5538,11 @@
       "unit": "Packung",
       "price": 5.4,
       "remarks": "",
-      "tags": ["Reispapier", "Reis", "Sesam"],
+      "tags": [
+        "Reispapier",
+        "Reis",
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -4393,7 +5553,10 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Tee", "tea"],
+      "tags": [
+        "Tee",
+        "tea"
+      ],
       "images": []
     },
     {
@@ -4404,8 +5567,12 @@
       "unit": "Flasche",
       "price": 1.1,
       "remarks": "",
-      "tags": ["Getränk"],
-      "images": ["00836.png"]
+      "tags": [
+        "Getränk"
+      ],
+      "images": [
+        "00836.png"
+      ]
     },
     {
       "id": 401,
@@ -4415,7 +5582,9 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4426,7 +5595,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4437,7 +5608,9 @@
       "unit": "Packung",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4448,7 +5621,9 @@
       "unit": "Stück",
       "price": 4.1,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4459,7 +5634,10 @@
       "unit": "Karton",
       "price": 120,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4470,7 +5648,10 @@
       "unit": "Flasche",
       "price": 1.3,
       "remarks": "",
-      "tags": ["Getränk", "Kokos"],
+      "tags": [
+        "Getränk",
+        "Kokos"
+      ],
       "images": []
     },
     {
@@ -4481,8 +5662,12 @@
       "unit": "Flasche",
       "price": 1.1,
       "remarks": "",
-      "tags": ["Getränk"],
-      "images": ["00845.png"]
+      "tags": [
+        "Getränk"
+      ],
+      "images": [
+        "00845.png"
+      ]
     },
     {
       "id": 408,
@@ -4492,7 +5677,10 @@
       "unit": "kg",
       "price": 6,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -4503,7 +5691,12 @@
       "unit": "Karton",
       "price": 18,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4514,7 +5707,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4525,7 +5720,9 @@
       "unit": "Beutel",
       "price": 10,
       "remarks": "",
-      "tags": ["Sesam"],
+      "tags": [
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -4536,7 +5733,9 @@
       "unit": "Sack",
       "price": 38,
       "remarks": "",
-      "tags": ["Mehl"],
+      "tags": [
+        "Mehl"
+      ],
       "images": []
     },
     {
@@ -4547,7 +5746,9 @@
       "unit": "Stück",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4558,7 +5759,10 @@
       "unit": "Karton",
       "price": 42,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -4569,7 +5773,10 @@
       "unit": "Kiste",
       "price": 36,
       "remarks": "",
-      "tags": ["Getränk", "alkohol"],
+      "tags": [
+        "Getränk",
+        "alkohol"
+      ],
       "images": []
     },
     {
@@ -4580,7 +5787,11 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Nudeln", "noodle", "Geflügel"],
+      "tags": [
+        "Nudeln",
+        "noodle",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4591,7 +5802,11 @@
       "unit": "Packung",
       "price": 12,
       "remarks": "",
-      "tags": ["Garnelen", "Meeresfrüchte", "Verpackung"],
+      "tags": [
+        "Garnelen",
+        "Meeresfrüchte",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4602,7 +5817,10 @@
       "unit": "Packung",
       "price": 10.7,
       "remarks": "",
-      "tags": ["Schwein", "Teigtaschen"],
+      "tags": [
+        "Schwein",
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -4613,7 +5831,9 @@
       "unit": "Flasche",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4624,7 +5844,12 @@
       "unit": "Flasche",
       "price": 1.3,
       "remarks": "",
-      "tags": ["Sauce", "Chili", "scharf", "Geflügel"],
+      "tags": [
+        "Sauce",
+        "Chili",
+        "scharf",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4635,7 +5860,9 @@
       "unit": "Flasche",
       "price": 2.7,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -4646,8 +5873,12 @@
       "unit": "Flasche",
       "price": 12,
       "remarks": "",
-      "tags": ["Sesam"],
-      "images": ["00864.png"]
+      "tags": [
+        "Sesam"
+      ],
+      "images": [
+        "00864.png"
+      ]
     },
     {
       "id": 423,
@@ -4657,8 +5888,13 @@
       "unit": "Packung",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
-      "images": ["00865.png"]
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
+      "images": [
+        "00865.png"
+      ]
     },
     {
       "id": 424,
@@ -4668,7 +5904,9 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Teigtaschen"],
+      "tags": [
+        "Teigtaschen"
+      ],
       "images": []
     },
     {
@@ -4679,7 +5917,10 @@
       "unit": "Karton",
       "price": 65,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4690,8 +5931,13 @@
       "unit": "Karton",
       "price": 60,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
-      "images": ["00870.jpeg"]
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
+      "images": [
+        "00870.jpeg"
+      ]
     },
     {
       "id": 427,
@@ -4701,7 +5947,9 @@
       "unit": "Kanister",
       "price": 20,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -4712,7 +5960,9 @@
       "unit": "Packung",
       "price": 9.6,
       "remarks": "",
-      "tags": ["Sesam"],
+      "tags": [
+        "Sesam"
+      ],
       "images": []
     },
     {
@@ -4723,7 +5973,9 @@
       "unit": "Stück",
       "price": 4.5,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4734,7 +5986,9 @@
       "unit": "Flasche",
       "price": 45,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4745,7 +5999,10 @@
       "unit": "Packung",
       "price": 1.8,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -4756,7 +6013,10 @@
       "unit": "Packung",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4767,8 +6027,12 @@
       "unit": "Flasche",
       "price": 6,
       "remarks": "",
-      "tags": ["Sonstiges"],
-      "images": ["00879.png"]
+      "tags": [
+        "Sonstiges"
+      ],
+      "images": [
+        "00879.png"
+      ]
     },
     {
       "id": 434,
@@ -4778,7 +6042,9 @@
       "unit": "Packung",
       "price": 31.7,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4789,7 +6055,9 @@
       "unit": "Flasche",
       "price": 6.7,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -4800,7 +6068,9 @@
       "unit": "Beutel",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4811,7 +6081,10 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Reis", "rice"],
+      "tags": [
+        "Reis",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -4822,7 +6095,9 @@
       "unit": "Karton",
       "price": 11.9,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4833,7 +6108,9 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Gemüse"],
+      "tags": [
+        "Gemüse"
+      ],
       "images": []
     },
     {
@@ -4844,7 +6121,9 @@
       "unit": "Karton",
       "price": 45,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -4855,7 +6134,9 @@
       "unit": "Karton",
       "price": 50,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4866,7 +6147,9 @@
       "unit": "Packung",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Kokos"],
+      "tags": [
+        "Kokos"
+      ],
       "images": []
     },
     {
@@ -4877,7 +6160,9 @@
       "unit": "Eimer",
       "price": 21.4,
       "remarks": "",
-      "tags": ["Erdnuss"],
+      "tags": [
+        "Erdnuss"
+      ],
       "images": []
     },
     {
@@ -4888,7 +6173,11 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Tintenfisch", "Meeresfrüchte", "Fisch"],
+      "tags": [
+        "Tintenfisch",
+        "Meeresfrüchte",
+        "Fisch"
+      ],
       "images": []
     },
     {
@@ -4899,7 +6188,10 @@
       "unit": "Karton",
       "price": 20,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -4910,7 +6202,10 @@
       "unit": "Karton",
       "price": 108,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -4921,7 +6216,9 @@
       "unit": "Packung",
       "price": 25,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4932,7 +6229,9 @@
       "unit": "Beutel",
       "price": 2.5,
       "remarks": "",
-      "tags": ["Rind"],
+      "tags": [
+        "Rind"
+      ],
       "images": []
     },
     {
@@ -4943,7 +6242,9 @@
       "unit": "Karton",
       "price": 115,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -4954,7 +6255,9 @@
       "unit": "Packung",
       "price": 7.5,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -4965,7 +6268,9 @@
       "unit": "Stück",
       "price": 5,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -4976,7 +6281,9 @@
       "unit": "Stück",
       "price": 2.4,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -4987,7 +6294,9 @@
       "unit": "Stück",
       "price": 2.4,
       "remarks": "",
-      "tags": ["Sushi"],
+      "tags": [
+        "Sushi"
+      ],
       "images": []
     },
     {
@@ -4998,7 +6307,9 @@
       "unit": "Karton",
       "price": 67,
       "remarks": "",
-      "tags": ["Gewürz"],
+      "tags": [
+        "Gewürz"
+      ],
       "images": []
     },
     {
@@ -5009,7 +6320,10 @@
       "unit": "Karton",
       "price": 180,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5020,7 +6334,10 @@
       "unit": "Karton",
       "price": 170,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5031,7 +6348,10 @@
       "unit": "Karton",
       "price": 175,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5042,7 +6362,10 @@
       "unit": "Karton",
       "price": 170,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5053,7 +6376,10 @@
       "unit": "Karton",
       "price": 190,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5064,7 +6390,10 @@
       "unit": "Karton",
       "price": 160,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5075,7 +6404,10 @@
       "unit": "Karton",
       "price": 110,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5086,7 +6418,10 @@
       "unit": "Karton",
       "price": 155,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5097,7 +6432,10 @@
       "unit": "kg",
       "price": 7.5,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -5108,7 +6446,9 @@
       "unit": "Karton",
       "price": 39,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5119,7 +6459,9 @@
       "unit": "Flasche",
       "price": 3.5,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -5130,7 +6472,9 @@
       "unit": "Flasche",
       "price": 5,
       "remarks": "",
-      "tags": ["Sauce"],
+      "tags": [
+        "Sauce"
+      ],
       "images": []
     },
     {
@@ -5141,7 +6485,12 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -5152,7 +6501,12 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -5163,7 +6517,12 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -5174,7 +6533,9 @@
       "unit": "Karton",
       "price": 114,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -5185,7 +6546,9 @@
       "unit": "Packung",
       "price": 11,
       "remarks": "",
-      "tags": ["Rind"],
+      "tags": [
+        "Rind"
+      ],
       "images": []
     },
     {
@@ -5196,7 +6559,10 @@
       "unit": "Packung",
       "price": 8,
       "remarks": "",
-      "tags": ["Fisch", "Meeresfrüchte"],
+      "tags": [
+        "Fisch",
+        "Meeresfrüchte"
+      ],
       "images": []
     },
     {
@@ -5207,7 +6573,9 @@
       "unit": "Dose",
       "price": 1.1,
       "remarks": "",
-      "tags": ["Getränk"],
+      "tags": [
+        "Getränk"
+      ],
       "images": []
     },
     {
@@ -5218,7 +6586,9 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5229,7 +6599,9 @@
       "unit": "Dose",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5240,7 +6612,9 @@
       "unit": "Stk.",
       "price": 37,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5251,7 +6625,9 @@
       "unit": "Stk.",
       "price": 35,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5262,7 +6638,9 @@
       "unit": "Stk.",
       "price": 4,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5273,7 +6651,10 @@
       "unit": "Stk.",
       "price": 45,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -5284,7 +6665,9 @@
       "unit": "Stk.",
       "price": 35,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -5295,7 +6678,9 @@
       "unit": "Stk.",
       "price": 22,
       "remarks": "",
-      "tags": ["Verpackung"],
+      "tags": [
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -5306,7 +6691,10 @@
       "unit": "Packung",
       "price": 12,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5317,7 +6705,9 @@
       "unit": "Karton",
       "price": 60,
       "remarks": "",
-      "tags": ["Geflügel"],
+      "tags": [
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5328,7 +6718,10 @@
       "unit": "Karton",
       "price": 70,
       "remarks": "",
-      "tags": ["Sushi", "Verpackung"],
+      "tags": [
+        "Sushi",
+        "Verpackung"
+      ],
       "images": []
     },
     {
@@ -5339,7 +6732,10 @@
       "unit": "Glas",
       "price": 5,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -5350,7 +6746,10 @@
       "unit": "Packung",
       "price": 10,
       "remarks": "",
-      "tags": ["Tee", "tea"],
+      "tags": [
+        "Tee",
+        "tea"
+      ],
       "images": []
     },
     {
@@ -5361,7 +6760,10 @@
       "unit": "Glas",
       "price": 3,
       "remarks": "",
-      "tags": ["Chili", "scharf"],
+      "tags": [
+        "Chili",
+        "scharf"
+      ],
       "images": []
     },
     {
@@ -5372,7 +6774,10 @@
       "unit": "Karton",
       "price": 68,
       "remarks": "",
-      "tags": ["Ente", "Geflügel"],
+      "tags": [
+        "Ente",
+        "Geflügel"
+      ],
       "images": []
     },
     {
@@ -5383,7 +6788,9 @@
       "unit": "Packung",
       "price": 5,
       "remarks": "",
-      "tags": ["Sonstiges"],
+      "tags": [
+        "Sonstiges"
+      ],
       "images": []
     },
     {
@@ -5394,7 +6801,12 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "Reis", "noodle", "rice"],
+      "tags": [
+        "Nudeln",
+        "Reis",
+        "noodle",
+        "rice"
+      ],
       "images": []
     },
     {
@@ -5405,7 +6817,10 @@
       "unit": "Packung",
       "price": 2,
       "remarks": "",
-      "tags": ["Nudeln", "noodle"],
+      "tags": [
+        "Nudeln",
+        "noodle"
+      ],
       "images": []
     },
     {
@@ -5416,7 +6831,10 @@
       "unit": "Packung",
       "price": 5.13,
       "remarks": "",
-      "tags": ["Kaffee", "coffee"],
+      "tags": [
+        "Kaffee",
+        "coffee"
+      ],
       "images": []
     },
     {
@@ -5427,7 +6845,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["VERPACKUNGEN"],
+      "tags": [
+        "VERPACKUNGEN"
+      ],
       "images": []
     },
     {
@@ -5438,7 +6858,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5449,7 +6871,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5460,7 +6884,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TIEFKÜHLWAREN"],
+      "tags": [
+        "TIEFKÜHLWAREN"
+      ],
       "images": []
     },
     {
@@ -5471,7 +6897,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TIEFKÜHLWAREN"],
+      "tags": [
+        "TIEFKÜHLWAREN"
+      ],
       "images": []
     },
     {
@@ -5482,7 +6910,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5493,7 +6923,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TIEFKÜHLWAREN"],
+      "tags": [
+        "TIEFKÜHLWAREN"
+      ],
       "images": []
     },
     {
@@ -5504,7 +6936,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5515,7 +6949,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["VERPACKUNGEN"],
+      "tags": [
+        "VERPACKUNGEN"
+      ],
       "images": []
     },
     {
@@ -5526,7 +6962,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5537,7 +6975,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5548,7 +6988,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["SUSHIPRODUKTE"],
+      "tags": [
+        "SUSHIPRODUKTE"
+      ],
       "images": []
     },
     {
@@ -5559,7 +7001,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5570,7 +7014,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5581,7 +7027,9 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN"
+      ],
       "images": []
     },
     {
@@ -5592,9 +7040,11 @@
       "unit": "Packung",
       "price": 0,
       "remarks": "",
-      "tags": ["TROCKENWAREN"],
+      "tags": [
+        "TROCKENWAREN",
+        "namnam"
+      ],
       "images": []
     }
-
   ]
 }
