@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "internalProductId": "10498",
+      "name": "Special Reisnudeln 1,2mm 500g",
+      "description": "Feine Reisnudeln mit 1,2mm Durchmesser, ideal für Phở, Bún und andere vietnamesische Nudelgerichte.",
+      "unit": "Packung",
+      "price": 2,
+      "remarks": "20 Packungen = 1 Karton",
+      "tags": ["Nudeln", "Reis", "Asiatisch", "noodle", "rice", "mi goi", "special"],
+      "images": ["00498.webp", "various-noodles.webp"]
+    }
+  ]
+}
+
+# dropbox app: minishop-site
+App key: ppfytsp5jlq5ixx
+App secret: lm1hghb8wkaoprz
+
+Access Token: sl.u.AGkyvGn5qPgHzinHX8t_iVSI-kCNzad94Ra6fA0JQ2LY7_GISbLCKDn29LDSnAE9-8r2eZ26hCBAYmMJXRT_lILo_EseF2l8ynxsu2EJuM73kCnimDuAokWwyjWBsUfRy4hFUQvjcFPDnuOZGaiHCNIppbJCHd_R5VNoOpEJhSfMN8s69PuaYpVNhPCppc0IKeutGqzdr3J5w_AAe9iySeLVSwZAD90IARbhGYjhbSRBnP4LRkgSBHgcQkMK58S3ynZoR3FOHOEfkvB0-obILUnyYfItctIXNZUyeNR4Jzh7TTIJy6KZj5GJuV9WRzujMk6FP4ZHJhuZrJbSZYHI38RbPR5rFNygvVFQi-tz2UsIJ1tnAVtJ_ubuxj6Cg9Q6KNAHeWKUrmzQXAXkWzBxvsPD3Rn1dCTwBL3fq1H9iCLi_uP967-wv3dMM0elqgM0OeUqKDyOufan0fOlpPJH-DnuuQaH-jfK7HKpwW5uKXCbry2KvZfkTvAgSRu43AyQr69wi3Fzvk-TYTemunkrj5Js0rqIIjXK9t-2V9lBcT0e2esTG2bQYVUvefeBi8O6p2X7oh1LLS0ie-yhMRMQVJml7X3C6MgksaiEGI-Bd20DV0_6T7rlG-vQd1I8IUfgNtBWOQGcx2seS2UUaorTbQBQxviLtgX44FWQb0DVmVXeuHSqcsaFvXiPiXGD9L1w6Ejt23Bjk642jq1SDRNGrfpiYlj3yixcJ6RFhGGpMMl4z8KiQkhIzihpklop0lpmrG12T9YhrrxFONEjVi4EGvve0Px8rPtMh7rPs5LN7iwRVlDwANMwQhzRnt6s7gUxwSn8fyaeil0_V-FDD7N3AYcPPga16yeqfij5VbaWfpucMr9_6n8kDFDg8q2CFcpctGUM8Bs4v3vORMfi809xgqUGJyILF6uG8Mha7VVut8rzq93MFDAVNxktZbf6WEmv2SnGVN3KuL4XonKtR1hMxVI27L1UcEGntjG7tAXRgj_5JjKlLqA46b9Q-w7c2TI3QTby_W60G5E4VVlZBAWA7iFeysLdEI8Kl0cIPJYAynZyG37EX6DSbTCDAqvGO-i0Va6IQkz6o8jOUdx_qcKeRJph5A6LKqgCy0qGLiu8o3oj1WJjTOdjGuQUUvXVtwHyLWSVruZr0LB2hfuR1JVly5L6yyv3bY3_d9sCdaFbdOO6NrdkIrs98RRtPVWMoqIJjQHQpA4A0MGcWHnems1BTwBbKe3pJ_H-9c8lryxPCL2CcPOBHfEviFbeGffJVl29BbiWe-LLW6gAvu-PKsojAR9n1mNgOf-cbNLXlA_MOq54d9dHfbmKXIK2Mts4VohWXcASZC6860cXJaUMb49dO-Ri28VOu0sMmGHwBpi6TtLiGBHSIBp7LoBo-uZVORevv6lQ5XcfnINr1PNQNlzELkVS6EFux2OVxq8sLViicX5XvsXPiF0qDNKVM4v2i9bl-ic
+
+curl -X POST https://content.dropboxapi.com/2/files/download \
+  --header "Authorization: Bearer sl.u.AGkyvGn5qPgHzinHX8t_iVSI-kCNzad94Ra6fA0JQ2LY7_GISbLCKDn29LDSnAE9-8r2eZ26hCBAYmMJXRT_lILo_EseF2l8ynxsu2EJuM73kCnimDuAokWwyjWBsUfRy4hFUQvjcFPDnuOZGaiHCNIppbJCHd_R5VNoOpEJhSfMN8s69PuaYpVNhPCppc0IKeutGqzdr3J5w_AAe9iySeLVSwZAD90IARbhGYjhbSRBnP4LRkgSBHgcQkMK58S3ynZoR3FOHOEfkvB0-obILUnyYfItctIXNZUyeNR4Jzh7TTIJy6KZj5GJuV9WRzujMk6FP4ZHJhuZrJbSZYHI38RbPR5rFNygvVFQi-tz2UsIJ1tnAVtJ_ubuxj6Cg9Q6KNAHeWKUrmzQXAXkWzBxvsPD3Rn1dCTwBL3fq1H9iCLi_uP967-wv3dMM0elqgM0OeUqKDyOufan0fOlpPJH-DnuuQaH-jfK7HKpwW5uKXCbry2KvZfkTvAgSRu43AyQr69wi3Fzvk-TYTemunkrj5Js0rqIIjXK9t-2V9lBcT0e2esTG2bQYVUvefeBi8O6p2X7oh1LLS0ie-yhMRMQVJml7X3C6MgksaiEGI-Bd20DV0_6T7rlG-vQd1I8IUfgNtBWOQGcx2seS2UUaorTbQBQxviLtgX44FWQb0DVmVXeuHSqcsaFvXiPiXGD9L1w6Ejt23Bjk642jq1SDRNGrfpiYlj3yixcJ6RFhGGpMMl4z8KiQkhIzihpklop0lpmrG12T9YhrrxFONEjVi4EGvve0Px8rPtMh7rPs5LN7iwRVlDwANMwQhzRnt6s7gUxwSn8fyaeil0_V-FDD7N3AYcPPga16yeqfij5VbaWfpucMr9_6n8kDFDg8q2CFcpctGUM8Bs4v3vORMfi809xgqUGJyILF6uG8Mha7VVut8rzq93MFDAVNxktZbf6WEmv2SnGVN3KuL4XonKtR1hMxVI27L1UcEGntjG7tAXRgj_5JjKlLqA46b9Q-w7c2TI3QTby_W60G5E4VVlZBAWA7iFeysLdEI8Kl0cIPJYAynZyG37EX6DSbTCDAqvGO-i0Va6IQkz6o8jOUdx_qcKeRJph5A6LKqgCy0qGLiu8o3oj1WJjTOdjGuQUUvXVtwHyLWSVruZr0LB2hfuR1JVly5L6yyv3bY3_d9sCdaFbdOO6NrdkIrs98RRtPVWMoqIJjQHQpA4A0MGcWHnems1BTwBbKe3pJ_H-9c8lryxPCL2CcPOBHfEviFbeGffJVl29BbiWe-LLW6gAvu-PKsojAR9n1mNgOf-cbNLXlA_MOq54d9dHfbmKXIK2Mts4VohWXcASZC6860cXJaUMb49dO-Ri28VOu0sMmGHwBpi6TtLiGBHSIBp7LoBo-uZVORevv6lQ5XcfnINr1PNQNlzELkVS6EFux2OVxq8sLViicX5XvsXPiF0qDNKVM4v2i9bl-ic" \
+  --header "Dropbox-API-Arg: {\"path\": \"/Apps/minishop-site/g007.jpg\"}" \
+  -o "g007.jpg"
