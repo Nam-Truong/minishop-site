@@ -1,0 +1,1 @@
+const n={"DRY GOODS":{de:"Trockenwaren",en:"Dry Goods"},"FROZEN GOODS":{de:"Tiefkühlwaren",en:"Frozen Goods"},BEVERAGES:{de:"Getränke",en:"Beverages"},"SUSHI PRODUCTS":{de:"Sushiprodukte",en:"Sushi Products"},PACKAGING:{de:"Verpackungen",en:"Packaging"}},a=(r,o)=>r.filter(e=>e in n).map(e=>n[e][o]);export{n as C,a as c};

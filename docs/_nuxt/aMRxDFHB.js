@@ -1,1 +1,0 @@
-const n={TROCKENWAREN:{de:"Trockenwaren",en:"Dry Goods"},TIEFKÜHLWAREN:{de:"Tiefkühlwaren",en:"Frozen Goods"},GETRÄNKE:{de:"Getränke",en:"Beverages"},SUSHIPRODUKTE:{de:"Sushiprodukte",en:"Sushi Products"},VERPACKUNGEN:{de:"Verpackungen",en:"Packaging"}},a=(r,o)=>r.filter(e=>e in n).map(e=>n[e][o]);export{n as C,a as c};
