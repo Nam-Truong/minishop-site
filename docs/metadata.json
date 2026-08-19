@@ -5315,8 +5315,8 @@
     {
       "id": 297,
       "internalProductId": "00583",
-      "name": "Tofu LEHOP  450g",
-      "description": "Tofu LEHOP  450g – Produktbeschreibung folgt.",
+      "name": "Tofu LEHOP 450g",
+      "description": "Tofu LEHOP 450g – Produktbeschreibung folgt.",
       "unit": "Packung",
       "price": 1.8,
       "remarks": "",
@@ -5327,7 +5327,9 @@
       "tags": [
         "Sonstiges"
       ],
-      "images": []
+      "images": [
+        "00583.webp"
+      ]
     },
     {
       "id": 298,
