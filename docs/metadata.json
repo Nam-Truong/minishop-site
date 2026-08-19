@@ -5531,7 +5531,7 @@
     {
       "id": 308,
       "internalProductId": "00609",
-      "name": "Sushi Essig Mizkan 20 L",
+      "name": "Sushi Essig Suehiro - Mizkan 20 L",
       "description": "Sushi Essig Mizkan 20 L – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 45,
@@ -5543,7 +5543,9 @@
       "tags": [
         "Sushi"
       ],
-      "images": []
+      "images": [
+        "00609.webp"
+      ]
     },
     {
       "id": 309,
