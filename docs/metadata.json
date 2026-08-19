@@ -151,7 +151,7 @@
     {
       "id": 7,
       "internalProductId": "00004",
-      "name": "Bambusstreifen Kawaii  2950g",
+      "name": "Bambusstreifen Kawaii 2950g",
       "description": "Bambusstreifen Kawaii  2950g – Produktbeschreibung folgt.",
       "unit": "Dose",
       "price": 5,
@@ -163,7 +163,9 @@
       "tags": [
         "Gemüse"
       ],
-      "images": []
+      "images": [
+        "00004.jpeg"
+      ]
     },
     {
       "id": 8,
