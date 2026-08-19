@@ -4694,8 +4694,8 @@
     {
       "id": 262,
       "internalProductId": "00474",
-      "name": "Quick Cooking Nudeln (30 x 500g)*",
-      "description": "Quick Cooking Nudeln (30 x 500g)* – Produktbeschreibung folgt.",
+      "name": "Quick Cooking Nudeln (30 x 500g) - Mekong",
+      "description": "Quick Cooking Nudeln (30 x 500g) Mekong – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 33,
       "remarks": "",
@@ -4707,7 +4707,11 @@
         "Nudeln",
         "noodle"
       ],
-      "images": []
+      "images": [
+        "00237.jpeg",
+        "WhatsApp Image 2026-08-19 at 10.54.34.jpeg",
+        "WhatsApp Image 2026-08-19 at 10.54.34_1.jpeg"
+      ]
     },
     {
       "id": 263,
