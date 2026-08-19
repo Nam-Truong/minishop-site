@@ -4757,7 +4757,7 @@
     {
       "id": 265,
       "internalProductId": "00485",
-      "name": "Ramen Nudeln 30x180g",
+      "name": "Ramen Nudeln 30x180g - Okei",
       "description": "Ramen Nudeln 30x180g – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 20,
@@ -4770,7 +4770,9 @@
         "Nudeln",
         "noodle"
       ],
-      "images": []
+      "images": [
+        "00485.webp"
+      ]
     },
     {
       "id": 266,
