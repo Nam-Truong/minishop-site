@@ -5230,7 +5230,7 @@
     {
       "id": 291,
       "internalProductId": "00566",
-      "name": "Essig Honteri Mirin Fu, 18 L",
+      "name": "Honteri Miron-Style Seasoning - Mizkan 18 L",
       "description": "Essig Honteri Mirin Fu, 18 L – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 75,
@@ -5242,7 +5242,9 @@
       "tags": [
         "Sonstiges"
       ],
-      "images": []
+      "images": [
+        "71-r0isqpGS._SX522_.jpg"
+      ]
     },
     {
       "id": 292,
@@ -7943,24 +7945,6 @@
         "Tintenfisch",
         "Meeresfrüchte",
         "Fisch"
-      ],
-      "images": []
-    },
-    {
-      "id": 445,
-      "internalProductId": "00891",
-      "name": "Ramen Nudeln 16x300g",
-      "description": "Ramen Nudeln 16x300g – Produktbeschreibung folgt.",
-      "unit": "Karton",
-      "price": 20,
-      "remarks": "",
-      "categories": [
-        "TROCKENWAREN",
-        "DRY GOODS"
-      ],
-      "tags": [
-        "Nudeln",
-        "noodle"
       ],
       "images": []
     },
