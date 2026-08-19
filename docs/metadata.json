@@ -1280,7 +1280,7 @@
     {
       "id": 69,
       "internalProductId": "00128",
-      "name": "Frühlingsrollenteig 215 mm, 550g",
+      "name": "Frühlingsrollenteig Spring Home 215 mm, 550g - 40 Sheets",
       "description": "Frühlingsrollenteig 215 mm, 550g – Produktbeschreibung folgt.",
       "unit": "Packung",
       "price": 3,
@@ -1292,7 +1292,9 @@
       "tags": [
         "Frühlingsrolle"
       ],
-      "images": []
+      "images": [
+        "00128.webp"
+      ]
     },
     {
       "id": 70,
