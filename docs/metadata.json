@@ -201,7 +201,9 @@
       "tags": [
         "Sonstiges"
       ],
-      "images": []
+      "images": [
+        "00011_20260820_132406_001.jpg"
+      ]
     },
     {
       "id": 10,
@@ -488,7 +490,7 @@
     {
       "id": 26,
       "internalProductId": "00051",
-      "name": "Entenfleisch geschnitten ausgegrillten Enten 1 kg",
+      "name": "Entenfleisch geschnitten ausgegrillten Enten HN 1 kg",
       "description": "Entenfleisch geschnitten ausgegrillten Enten 1 kg – Produktbeschreibung folgt.",
       "unit": "Beutel",
       "price": 7.5,
@@ -8254,7 +8256,7 @@
     {
       "id": 461,
       "internalProductId": "00908",
-      "name": "Gegrillte Entenfilet 16 (4 x 2,50 kg)",
+      "name": "Gegrillte Entenfilet HN 16 (4 x 2,50 kg)",
       "description": "Gegrillte Entenfilet 16 (4 x 2,50 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 110,
@@ -8274,7 +8276,7 @@
     {
       "id": 462,
       "internalProductId": "00909",
-      "name": "Gegrillte Entenfilet 3,8 (3 x 3,80 kg)",
+      "name": "Gegrillte Entenfilet HN 3,8 (3 x 3,80 kg)",
       "description": "Gegrillte Entenfilet 3,8 (3 x 3,80 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 155,
