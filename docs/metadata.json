@@ -501,7 +501,9 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00051_20260820_132139_001.jpg"
+      ]
     },
     {
       "id": 27,
@@ -8152,7 +8154,7 @@
     {
       "id": 456,
       "internalProductId": "00903",
-      "name": "Gegrillte Entenfilet 4,5 (6 x 2,25 kg)",
+      "name": "Gegrillte Entenfilet HN 4,5 (6 x 2,25 kg)",
       "description": "Gegrillte Entenfilet 4,5 (6 x 2,25 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 170,
@@ -8172,7 +8174,7 @@
     {
       "id": 457,
       "internalProductId": "00904",
-      "name": "Gegrillte Entenfilet 4,8 (6 x 2,40 kg)",
+      "name": "Gegrillte Entenfilet HN 4,8 (6 x 2,40 kg)",
       "description": "Gegrillte Entenfilet 4,8 (6 x 2,40 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 175,
@@ -8192,7 +8194,7 @@
     {
       "id": 458,
       "internalProductId": "00905",
-      "name": "Gegrillte Entenfilet 4,2 (6 x 2,10 kg)",
+      "name": "Gegrillte Entenfilet HN 4,2 (6 x 2,10 kg)",
       "description": "Gegrillte Entenfilet 4,2 (6 x 2,10 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 170,
@@ -8205,12 +8207,14 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00905_20260820_132111_001.jpg"
+      ]
     },
     {
       "id": 459,
       "internalProductId": "00906",
-      "name": "Gegrillte Entenfilet 5,4 (6 x 2,7 kg)",
+      "name": "Gegrillte Entenfilet HN 5,4 (6 x 2,7 kg)",
       "description": "Gegrillte Entenfilet 5,4 (6 x 2,7 kg) – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 190,
@@ -8223,7 +8227,9 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00906_20260820_132116_001.jpg"
+      ]
     },
     {
       "id": 460,
@@ -8241,7 +8247,9 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00907_20260820_132121_001.jpg"
+      ]
     },
     {
       "id": 461,
@@ -8259,7 +8267,9 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00908_20260820_132126_001.jpg"
+      ]
     },
     {
       "id": 462,
@@ -8277,7 +8287,9 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00909_20260820_132130_001.jpg"
+      ]
     },
     {
       "id": 463,
