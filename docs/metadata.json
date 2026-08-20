@@ -519,7 +519,10 @@
         "Ente",
         "Geflügel"
       ],
-      "images": []
+      "images": [
+        "00053_20260820_131944_001.jpg",
+        "00053_20260820_131944_002.jpg"
+      ]
     },
     {
       "id": 28,
@@ -5241,7 +5244,7 @@
     {
       "id": 291,
       "internalProductId": "00566",
-      "name": "Honteri Miron-Style Seasoning - Mizkan 18 L",
+      "name": "Honteri Mirin-Style Seasoning - Mizkan 18 L",
       "description": "Essig Honteri Mirin Fu, 18 L – Produktbeschreibung folgt.",
       "unit": "Karton",
       "price": 75,
