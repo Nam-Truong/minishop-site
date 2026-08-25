@@ -3134,7 +3134,7 @@
       "id": 173,
       "internalProductId": "00313",
       "name": "Lunchbox IP10 - 1676 weiss (1x125)* (inkl. Sondernkosten)",
-      "description": "Lunchbox IP10 weiss (1x125)* (inkl. Sondernkosten) – Produktbeschreibung folgt.",
+      "description": "Farbe: weiß\nMaße: 240x160x72 mm\nFüllvolumen Boden: 700\nFüllvolumen Deckel: 650\nUnterverpackung : 4x125\nKartoninhalt: 500",
       "unit": "Packung",
       "price": 12.5,
       "remarks": "",
@@ -3145,7 +3145,10 @@
       "tags": [
         "Sonstiges"
       ],
-      "images": []
+      "images": [
+        "00313_20260825_140837_001.jpeg",
+        "00313_20260825_140837_002.jpeg"
+      ]
     },
     {
       "id": 174,
