@@ -7776,23 +7776,6 @@
       ]
     },
     {
-      "id": 434,
-      "internalProductId": "00880",
-      "name": "Andere / Umgebuchte Artikel",
-      "description": "Andere / Umgebuchte Artikel – Produktbeschreibung folgt.",
-      "unit": "Packung",
-      "price": 31.7,
-      "remarks": "",
-      "categories": [
-        "TIEFKÜHLWAREN",
-        "FROZEN GOODS"
-      ],
-      "tags": [
-        "Sonstiges"
-      ],
-      "images": []
-    },
-    {
       "id": 435,
       "internalProductId": "00881",
       "name": "Sojasauce Kikkoman 1L PET Flashe",
