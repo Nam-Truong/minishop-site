@@ -35,10 +35,10 @@
     {
       "id": 2,
       "internalProductId": "00460",
-      "name": "Langkorn Reis ST 25 Lua Tom 18kg",
+      "name": "Langkorn Reis ST25 Lua Tom 18kg",
       "description": "Hochwertiger Langkorn-Jasminreis aus Vietnam, aromatisch und fluffig. Ideal für alle asiatischen Gerichte.",
       "unit": "Sack",
-      "price": 40,
+      "price": 41,
       "remarks": "",
       "categories": [
         "TROCKENWAREN",
@@ -52,8 +52,6 @@
         "gao"
       ],
       "images": [
-        "00460.webp",
-        "00460_001.png",
         "00460_002.png"
       ]
     },
