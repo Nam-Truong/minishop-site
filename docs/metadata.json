@@ -1910,8 +1910,8 @@
     {
       "id": 104,
       "internalProductId": "00186",
-      "name": "Teriyaki Sauce 2 kg",
-      "description": "Teriyaki Sauce 2 kg – Produktbeschreibung folgt.",
+      "name": "Teriyaki Sauce 2 kg - Nihon Shokken aus Japan",
+      "description": "Teriyaki Sauce 2 kg – Nihon Shokken aus Japan",
       "unit": "Kanister",
       "price": 20,
       "remarks": "",
@@ -1922,7 +1922,12 @@
       "tags": [
         "Sauce"
       ],
-      "images": []
+      "images": [
+        "00186_20260827_141912_001.jpg",
+        "00186_20260827_141912_002.jpg",
+        "00186_20260827_141912_003.jpg",
+        "00186_20260827_141912_004.jpg"
+      ]
     },
     {
       "id": 105,
