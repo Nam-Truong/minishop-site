@@ -9096,6 +9096,26 @@
         "TROCKENWAREN"
       ],
       "images": []
+    },
+    {
+      "id": 509,
+      "internalProductId": "00957",
+      "name": "Langkorn Duftreis ST25 Mekong 18 kg",
+      "description": "",
+      "unit": "Sack",
+      "price": 38,
+      "remarks": "",
+      "categories": [
+        "Reis"
+      ],
+      "tags": [
+        "Reis",
+        "ST25"
+      ],
+      "images": [
+        "00957_20260827_102059_001.jpg",
+        "00957_20260827_102059_002.jpg"
+      ]
     }
   ]
 }
