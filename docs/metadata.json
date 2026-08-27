@@ -1480,7 +1480,10 @@
       "tags": [
         "Gewürz"
       ],
-      "images": []
+      "images": [
+        "00149_20260827_140945_001.jpg",
+        "00149_20260827_140945_002.jpg"
+      ]
     },
     {
       "id": 81,
@@ -4552,7 +4555,7 @@
     {
       "id": 251,
       "internalProductId": "00452",
-      "name": "Mini- Frühlingsrolle \"DIN HAU\" (60 Stk.)",
+      "name": "Mini- Frühlingsrolle DIN HAU (60 Stk.)",
       "description": "Mini- Frühlingsrolle \"DIN HAU\" (60 Stk.) – Produktbeschreibung folgt.",
       "unit": "Packung",
       "price": 3.5,
