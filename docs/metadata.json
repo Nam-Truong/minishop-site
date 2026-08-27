@@ -1894,7 +1894,7 @@
       "name": "Barbecue Sauce, Bull Head 737g",
       "description": "Barbecue Sauce, Bull Head 737g – Produktbeschreibung folgt.",
       "unit": "Flasche",
-      "price": 10,
+      "price": 13,
       "remarks": "",
       "categories": [
         "TROCKENWAREN",
@@ -1903,7 +1903,9 @@
       "tags": [
         "Sauce"
       ],
-      "images": []
+      "images": [
+        "00185_20260827_141454_001.jpg"
+      ]
     },
     {
       "id": 104,
