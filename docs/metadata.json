@@ -1401,7 +1401,7 @@
     {
       "id": 76,
       "internalProductId": "00142",
-      "name": "Knorr Schweinegewürz Pulver 900g",
+      "name": "Knorr Schweinegewürz Pulver 900g (Hat Nem)",
       "description": "Knorr Schweinegewürz Pulver 900g – Produktbeschreibung folgt.",
       "unit": "Beutel",
       "price": 6,
@@ -1414,7 +1414,9 @@
         "Schwein",
         "Gewürz"
       ],
-      "images": []
+      "images": [
+        "00142_20260828_115300_001.jpg"
+      ]
     },
     {
       "id": 77,
