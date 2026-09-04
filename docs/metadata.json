@@ -7514,7 +7514,7 @@
       "name": "Asahi Bier 24x330ml (inkl. Pfand)",
       "description": "Asahi Bier 24x330ml (inkl. Pfand) – Produktbeschreibung folgt.",
       "unit": "Karton",
-      "price": 42,
+      "price": 48,
       "remarks": "",
       "categories": [
         "GETRÄNKE",
@@ -7524,7 +7524,9 @@
         "Getränk",
         "alkohol"
       ],
-      "images": []
+      "images": [
+        "00855_20260904_112953_001.jpg"
+      ]
     },
     {
       "id": 415,
