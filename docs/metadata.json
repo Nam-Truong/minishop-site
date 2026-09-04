@@ -7527,7 +7527,7 @@
       "name": "Kirin Bier 24x330ml (inkl. Pfand)",
       "description": "Kirin Bier 24x330ml (inkl. Pfand) – Produktbeschreibung folgt.",
       "unit": "Kiste",
-      "price": 36,
+      "price": 45,
       "remarks": "",
       "categories": [
         "GETRÄNKE",
@@ -7537,7 +7537,9 @@
         "Getränk",
         "alkohol"
       ],
-      "images": []
+      "images": [
+        "00856_20260904_112009_001.jpg"
+      ]
     },
     {
       "id": 416,
