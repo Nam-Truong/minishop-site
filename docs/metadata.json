@@ -3731,7 +3731,7 @@
       "name": "Bier Tiger (24 x 0,33 l) (inkl. Pfand)",
       "description": "Bier Tiger (24 x 0,33 l) (inkl. Pfand) – Produktbeschreibung folgt.",
       "unit": "Karton",
-      "price": 30,
+      "price": 45,
       "remarks": "",
       "categories": [
         "GETRÄNKE",
@@ -3741,7 +3741,9 @@
         "Getränk",
         "alkohol"
       ],
-      "images": []
+      "images": [
+        "00350_20260904_112244_001.jpg"
+      ]
     },
     {
       "id": 204,
