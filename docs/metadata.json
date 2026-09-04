@@ -6189,7 +6189,7 @@
       "name": "Bier Singha (24 x 0,33 l) (inkl. Pfand)",
       "description": "Bier Singha (24 x 0,33 l) (inkl. Pfand) – Produktbeschreibung folgt.",
       "unit": "Karton",
-      "price": 36,
+      "price": 45,
       "remarks": "",
       "categories": [
         "GETRÄNKE",
@@ -6199,7 +6199,10 @@
         "Getränk",
         "alkohol"
       ],
-      "images": []
+      "images": [
+        "00714_20260904_112608_001.jpg",
+        "00714_20260904_112608_002.jpg"
+      ]
     },
     {
       "id": 340,
