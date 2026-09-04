@@ -6492,21 +6492,6 @@
       "images": []
     },
     {
-      "id": 357,
-      "internalProductId": "00773",
-      "name": "Pfand Bier Flasche",
-      "description": "Pfand Bier Flasche – Produktbeschreibung folgt.",
-      "unit": "Flasche",
-      "price": 0.2,
-      "remarks": "",
-      "categories": [],
-      "tags": [
-        "Getränk",
-        "alkohol"
-      ],
-      "images": []
-    },
-    {
       "id": 358,
       "internalProductId": "00774",
       "name": "Chili Sauce Sriracha FG fl 730ml",
