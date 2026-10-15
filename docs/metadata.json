@@ -9093,10 +9093,10 @@
     {
       "id": 504,
       "internalProductId": "00951",
-      "name": "Sushireis Sakura 18kg",
+      "name": "Sushi Reis Sakura 18kg",
       "description": "Sushireis Sakura 18kg – Produktbeschreibung folgt.",
       "unit": "Packung",
-      "price": 0,
+      "price": 38,
       "remarks": "",
       "categories": [
         "SUSHIPRODUKTE",
@@ -9105,7 +9105,10 @@
       "tags": [
         "SUSHIPRODUKTE"
       ],
-      "images": []
+      "images": [
+        "00951_20261015_153824_001.jpeg",
+        "00951_20261015_153824_002.jpeg"
+      ]
     },
     {
       "id": 505,
