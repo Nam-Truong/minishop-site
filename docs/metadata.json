@@ -6,6 +6,7 @@
   "description3": "39110 Magdeburg",
   "author": "MovusX Solutions",
   "productPaginationSize": 30,
+  "displayProductPrice": false,
   "products": [
     {
       "id": 1,
